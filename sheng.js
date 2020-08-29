@@ -1,4 +1,4 @@
-var restaurantsArray = [ // AKA list
+var restaurantsArray = [ 
 	{
 		name: "Starbucks", 
 		color: "green"
